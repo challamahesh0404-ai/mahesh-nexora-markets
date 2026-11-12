@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://challamahesh0404-ai.github.io/mahesh-nexora-markets/sitemap.xml
