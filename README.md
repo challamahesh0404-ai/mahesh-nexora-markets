@@ -59,6 +59,25 @@ No compilation, Node.js installation, or backend servers needed — everything i
 
 ---
 
+## ⚡ Continuous GitHub Automation & Auto-Sync Engine
+
+MAHESH NEXORA MARKETS comes equipped with a real-time automated synchronization engine:
+
+### 1. 🔄 Real-Time Live Watcher (`start-auto-sync.bat`)
+- Double-click **`start-auto-sync.bat`** to start the continuous file watcher.
+- Any time you modify and save `index.html`, styles, or scripts, the engine detects changes, waits 5 seconds for editing to pause, bundles the files, generates a timestamped commit, and pushes directly to GitHub!
+
+### 2. 🚀 1-Click Instant Sync (`sync-now.bat`)
+- Double-click **`sync-now.bat`** anytime to immediately push all local modifications to GitHub in one click.
+
+### 3. 💻 Command-Line Push (`sync-now.ps1`)
+```powershell
+powershell -ExecutionPolicy Bypass -File .\sync-now.ps1 -Message "Custom update message"
+```
+
+
+---
+
 ## 💎 Full Live Motion Glassmorphic Sidebar
 
 - **Smooth & Soft Expansion / Collapse**:
