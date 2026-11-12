@@ -8,3 +8,4 @@ server.ps1
 *.zip
 *.tmp
 publish_github.ps1
+push_to_github.bat
