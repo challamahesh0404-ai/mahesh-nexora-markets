@@ -9,3 +9,6 @@ server.ps1
 *.tmp
 publish_github.ps1
 push_to_github.bat
+# Local automation secrets
+automation_config.json
+*.secret
